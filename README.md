@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashwani_dey" target="blank"><img src="https://img.shields.io/twitter/follow/ashwani_dey?logo=twitter&style=for-the-badge" alt="ashwani_dey" /></a> </p>
 
-- 🔭 I’m currently working on [University Management System](https://github.com/ashwanidey/Unimanagementsys)
+- 🔭 I’m currently working on [Coin Compute](https://github.com/ashwanidey/CoinCompute)
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
